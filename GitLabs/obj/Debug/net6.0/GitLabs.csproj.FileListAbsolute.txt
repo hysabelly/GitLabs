@@ -1,0 +1,15 @@
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\bin\Debug\net6.0\GitLabs.exe
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\bin\Debug\net6.0\GitLabs.deps.json
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\bin\Debug\net6.0\GitLabs.runtimeconfig.json
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\bin\Debug\net6.0\GitLabs.dll
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\bin\Debug\net6.0\GitLabs.pdb
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.dll
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\refint\GitLabs.dll
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.pdb
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\GitLabs.genruntimeconfig.cache
+C:\Users\IFSP\Desktop\SP3047458\GitLabs\obj\Debug\net6.0\ref\GitLabs.dll
