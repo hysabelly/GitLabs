@@ -1,6 +1,6 @@
 # GitLabs
 
-Programa que realiza as operações:
+Programa que realiza operações:
 
 - Somar 
 - Subtrair
